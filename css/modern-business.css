@@ -19,6 +19,8 @@ a {
     background-color: #06317C;
 }
 
+
+
 .navbar-inverse .navbar-nav > li > a {
     color: #ffffff;
 }
@@ -89,6 +91,11 @@ header.carousel .fill {
     height: 100%;
     background-position: center;
     background-size: cover;
+}
+
+a.right.carousel-control,
+a.left.carousel-control {
+    background-color: transparent;
 }
 
 /* 404 Page Styles */
